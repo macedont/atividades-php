@@ -2,7 +2,7 @@
 
 function validar_login($login, $senha){
 
-    //validar direto em um banco de dados
+    //validação sem banco
     $login_bd = 'macedolff21@gmail.com';
     $senha_bd = '123';
 
